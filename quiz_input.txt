@@ -1,0 +1,44 @@
+QUIZ "Enhanced General Knowledge Quiz"
+THRESHOLD 2
+
+QUESTION "Who is our CD professor?"
+TYPE MCQ
+OPTIONS "DR.SADAGOPAN" "DR.SIVASELVAN" "DR.JAGADEESH" "DR.PREETH"
+CORRECT "DR.JAGADEESH"
+
+QUESTION "What are your thoughts on Jagadeesh sirs Teaching?"
+TYPE MCQ
+OPTIONS "GOOD" "EXCELLENT" "SUPERB" "AMAZING"
+CORRECT "SUPERB"
+
+QUESTION "Is LL1 a Top-Down Parser"
+TYPE TRUE_FALSE
+CORRECT "TRUE"
+
+QUESTION "Which parser can accept ambigous grammar ____."
+TYPE FILL_IN_BLANK
+CORRECT "Operator-precedence"
+
+QUESTION "Solve 5 + 3"
+TYPE NUMERIC
+CORRECT 8
+
+QUESTION "Is Python a programming language?"
+TYPE TRUE_FALSE
+CORRECT "TRUE"
+
+QUESTION "Fill in the blank: The Earth revolves around the ____."
+TYPE FILL_IN_BLANK
+CORRECT "sun"
+
+QUESTION "What is the capital of France?"
+TYPE MCQ
+OPTIONS "Paris" "Berlin" "Rome" "Madrid"
+CORRECT "Paris"
+
+QUESTION "Solve 4*7"
+TYPE NUMERIC
+CORRECT 28
+
+
+
